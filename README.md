@@ -2,11 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; in progress
-- 🎓 &nbsp; in progress
-- 💼 &nbsp; in progress
-- 🌱 &nbsp; in progress
-- ✍️ &nbsp; in progress
+- 🤔 &nbsp; Willing to learn new technologies and to be learning constantly.
+- 🎓 &nbsp; Full stack developer graduated from Henry Bootcamp.
+- 🌱 &nbsp; Music and sports fan.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -16,8 +14,11 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
