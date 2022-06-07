@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Willing to learn new technologies and to be learning constantly.
+- ✍️ &nbsp; Willing to learn new technologies and to be learning constantly.
 - 🎓 &nbsp; Full stack developer graduated from Henry Bootcamp.
 - 🌱 &nbsp; Music and sports fan.
 
