@@ -1,10 +1,14 @@
-<h2> Hey there! I'm Federico.</h2>
+<h1> Hey there! I'm Federico. Welcome to my github! </h1>
+
+<img width="100%" height="40%" src="https://elioestudio.com/wp-content/uploads/2019/09/Dia-del-programador-845x321.jpg">
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🌎 &nbsp; I'm from Argentina.
 - ✍️ &nbsp; Willing to learn new technologies and to be learning constantly.
 - 🎓 &nbsp; Full stack developer graduated from Henry Bootcamp.
-- 🌱 &nbsp; Music and sports fan.
+- :heart: &nbsp; Music and sports fan.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -15,7 +19,6 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)
